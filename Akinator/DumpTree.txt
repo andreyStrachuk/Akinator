@@ -1,0 +1,52 @@
+digraph D {
+    64752 [fillcolor=purple, style="rounded,filled", label="animal"];
+
+    64752 -> 13328;
+
+    13328 [fillcolor=cyan, style="rounded,filled", label="mammal"];
+    13328 -> 13504;
+
+    13504 [fillcolor=cyan, style="rounded,filled", label="is able to think"];
+    13504 -> 13696;
+
+    13696 [fillcolor=yellow, style="rounded,filled", label="ded32"];
+    13504 -> 13872;
+
+    13872 [fillcolor=yellow, style="rounded,filled", label="whale"];
+    13328 -> 14048;
+
+    14048 [fillcolor=cyan, style="rounded,filled", label="bigger"];
+    14048 -> 14224;
+
+    14224 [fillcolor=cyan, style="rounded,filled", label="ground"];
+    14224 -> 14400;
+
+    14400 [fillcolor=yellow, style="rounded,filled", label="lion"];
+    14224 -> 14576;
+
+    14576 [fillcolor=yellow, style="rounded,filled", label="dolphin"];
+    14048 -> 14752;
+
+    14752 [fillcolor=yellow, style="rounded,filled", label="frog"];
+    64752 -> 14928;
+
+    14928 [fillcolor=cyan, style="rounded,filled", label="reptile"];
+    14928 -> 15104;
+
+    15104 [fillcolor=cyan, style="rounded,filled", label="it has power"];
+    15104 -> 15280;
+
+    15280 [fillcolor=yellow, style="rounded,filled", label="big king"];
+    15104 -> 15456;
+
+    15456 [fillcolor=yellow, style="rounded,filled", label="python"];
+    14928 -> 15632;
+
+    15632 [fillcolor=cyan, style="rounded,filled", label="somthing"];
+    15632 -> 15808;
+
+    15808 [fillcolor=yellow, style="rounded,filled", label="dog"];
+    15632 -> 15984;
+
+    15984 [fillcolor=yellow, style="rounded,filled", label="cat"];
+}

@@ -1,0 +1,34 @@
+{ animal?
+{ mammal?
+{ is able to think?
+{ ded32#
+}
+{ whale#
+}
+}
+{ bigger?
+{ ground?
+{ lion#
+}
+{ dolphin#
+}
+}
+{ frog#
+}
+}
+}
+{ reptile?
+{ it has power?
+{ big king#
+}
+{ python#
+}
+}
+{ somthing?
+{ dog#
+}
+{ cat#
+}
+}
+}
+}
